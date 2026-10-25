@@ -1,0 +1,11 @@
+# GIMH Facts To Confirm (hospital to supply)
+- Director name and message
+- Faculty / department list
+- OPD timings, phone, email
+- Bed capacity (312 to be confirmed)
+- Official Hindi/Gujarati spellings of institute name
+- Official logo (public/brand/gimh-logo.svg)
+- Service list beyond confirmed items (ECT, rTMS, ketamine, counselling, adult psychiatry)
+- Events calendar and past-event photos
+- Content reviewer sign-off
+- Domain (custom domain later)
